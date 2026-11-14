@@ -18,7 +18,8 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Command Line Room Name](https://tryhackme.com/room/windowscommandline)* | Utilizing standard command utilities, filtering text, and searching logs. | [Open Room](https://tryhackme.com/room/windowspowershell) | [Open Room](https://tryhackme.com/room/linuxshells)
+| *[Command Line Room Name](https://tryhackme.com/room/windowscommandline)* | Utilizing standard command utilities, filtering text, and searching logs. | [Open Room](https://tryhackme.com/room/windowspowershell) 
+| *[Command Line Room Name](https://tryhackme.com/room/windowscommandline)* | Utilizing standard command utilities, filtering text, and searching logs.| [Open Room](https://tryhackme.com/room/linuxshells)
 
 ---
 
@@ -27,7 +28,11 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Networking Room Name](https://tryhackme.com/room/networkingconcepts)* | OSI model layers, IP addressing, and packet communication. | [Open Room](https://tryhackme.com/room/networkingcoreprotocols) | [Open Room](https://tryhackme.com/room/networkingsecureprotocols) | [Open Room](https://tryhackme.com/room/wiresharkthebasics) | [Open Room](https://tryhackme.com/room/tcpdump) | [Open Room](https://tryhackme.com/room/nmap) 
+| *[Networking Room Name](https://tryhackme.com/room/networkingconcepts)* | OSI model layers, IP addressing, and packet communication. | [Open Room](https://tryhackme.com/room/networkingcoreprotocols) 
+| *[Networking Room Name](https://tryhackme.com/room/networkingconcepts)* | OSI model layers, IP addressing, and packet communication. | [Open Room](https://tryhackme.com/room/networkingsecureprotocols) 
+| *[Networking Room Name](https://tryhackme.com/room/networkingconcepts)* | OSI model layers, IP addressing, and packet communication. | [Open Room](https://tryhackme.com/room/wiresharkthebasics) 
+| *[Networking Room Name](https://tryhackme.com/room/networkingconcepts)* | OSI model layers, IP addressing, and packet communication. | [Open Room](https://tryhackme.com/room/tcpdump) 
+| *[Networking Room Name](https://tryhackme.com/room/networkingconcepts)* | OSI model layers, IP addressing, and packet communication. | [Open Room](https://tryhackme.com/room/nmap) 
 
 ---
 
@@ -36,7 +41,10 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Cryptography Room Name](https://tryhackme.com/room/cryptographybasics)* | Hashing algorithms, symmetric/asymmetric encryption, and ciphers. | [Open Room](https://tryhackme.com/room/johntheripperbasics) | [Open Room](https://tryhackme.com/room/hfb1cryptosystem) | [Open Room](https://tryhackme.com/room/hashingbasics) | [Open Room](https://tryhackme.com/room/publickeycrypto)
+| *[Cryptography Room Name](https://tryhackme.com/room/cryptographybasics)* | Hashing algorithms, symmetric/asymmetric encryption, and ciphers. | [Open Room](https://tryhackme.com/room/johntheripperbasics) 
+| *[Cryptography Room Name](https://tryhackme.com/room/cryptographybasics)* | Hashing algorithms, symmetric/asymmetric encryption, and ciphers.| [Open Room](https://tryhackme.com/room/hfb1cryptosystem) 
+| *[Cryptography Room Name](https://tryhackme.com/room/cryptographybasics)* | Hashing algorithms, symmetric/asymmetric encryption, and ciphers.| [Open Room](https://tryhackme.com/room/hashingbasics) 
+| *[Cryptography Room Name](https://tryhackme.com/room/cryptographybasics)* | Hashing algorithms, symmetric/asymmetric encryption, and ciphers.| [Open Room](https://tryhackme.com/room/publickeycrypto)
 
 ---
 
@@ -72,7 +80,8 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Offensive Security Tooling](https://tryhackme.com/room/gobusterthebasics)* | Using standard testing utilities and enumeration frameworks. | [Open Room](https://tryhackme.com/room/shellsoverview) | [Open Room](https://tryhackme.com/room/sqlmapthebasics)
+| *[Offensive Security Tooling](https://tryhackme.com/room/gobusterthebasics)* | Using standard testing utilities and enumeration frameworks. | [Open Room](https://tryhackme.com/room/shellsoverview) 
+| *[Offensive Security Tooling](https://tryhackme.com/room/gobusterthebasics)* | Using standard testing utilities and enumeration frameworks.| [Open Room](https://tryhackme.com/room/sqlmapthebasics)
 
 ---
 
@@ -81,7 +90,9 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Defensive Security Room Name](https://tryhackme.com/room/socfundamentals)* | Blue team fundamentals, incident prevention, and monitoring concepts. | [Open Room](https://tryhackme.com/room/digitalforensicsfundamentals) | [Open Room](https://tryhackme.com/room/digitalforensicsfundamentals)  | [Open Room](https://tryhackme.com/room/incidentresponsefundamentals) 
+| *[Defensive Security Room Name](https://tryhackme.com/room/socfundamentals)* | Blue team fundamentals, incident prevention, and monitoring concepts. | [Open Room](https://tryhackme.com/room/digitalforensicsfundamentals) 
+| *[Defensive Security Room Name](https://tryhackme.com/room/socfundamentals)* | Blue team fundamentals, incident prevention, and monitoring concepts. | [Open Room](https://tryhackme.com/room/digitalforensicsfundamentals)  
+| *[Defensive Security Room Name](https://tryhackme.com/room/socfundamentals)* | Blue team fundamentals, incident prevention, and monitoring concepts. | [Open Room](https://tryhackme.com/room/incidentresponsefundamentals) 
 
 ---
 
@@ -90,8 +101,9 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Security Solutions Room Name](https://tryhackme.com/room/firewallfundamentals)* | Firewalls, IDPS, and enterprise defense layers. | [Open Room](https://tryhackme.com/room/idsfundamentals) |
-[Open Room](https://tryhackme.com/room/vulnerabilityscanneroverview) | [Open Room](https://tryhackme.com/room/idsfundamentals) 
+| *[Security Solutions Room Name](https://tryhackme.com/room/firewallfundamentals)* | Firewalls, IDPS, and enterprise defense layers. | [Open Room](https://tryhackme.com/room/idsfundamentals) 
+| *[Security Solutions Room Name](https://tryhackme.com/room/firewallfundamentals)* | Firewalls, IDPS, and enterprise defense layers. [Open Room](https://tryhackme.com/room/vulnerabilityscanneroverview) 
+| *[Security Solutions Room Name](https://tryhackme.com/room/firewallfundamentals)* | Firewalls, IDPS, and enterprise defense layers. | [Open Room](https://tryhackme.com/room/idsfundamentals) 
 
 ---
 
@@ -100,7 +112,9 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Defensive Security Tooling Room Name](https://tryhackme.com/room/capabasics)* | Analyst utilities and monitoring tools for threat detection. | [Open Room](https://tryhackme.com/room/remnuxgettingstarted) | [Open Room](https://tryhackme.com/room/flarevmarsenaloftools) | [Open Room](https://tryhackme.com/room/extractedroom)
+| *[Defensive Security Tooling Room Name](https://tryhackme.com/room/capabasics)* | Analyst utilities and monitoring tools for threat detection. | [Open Room](https://tryhackme.com/room/remnuxgettingstarted) 
+| *[Defensive Security Tooling Room Name](https://tryhackme.com/room/capabasics)* | Analyst utilities and monitoring tools for threat detection.| [Open Room](https://tryhackme.com/room/flarevmarsenaloftools) 
+| *[Defensive Security Tooling Room Name](https://tryhackme.com/room/capabasics)* | Analyst utilities and monitoring tools for threat detection.| [Open Room](https://tryhackme.com/room/extractedroom)
 
 ---
 
@@ -109,7 +123,9 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Build Your Cyber Security Career](https://tryhackme.com/room/securityprinciples)* | Industry pathways, portfolio development, and role positioning. | [Open Room](https://tryhackme.com/room/careersincyber) |  [Open Room](https://tryhackme.com/room/...) |  [Open Room](https://tryhackme.com/paths) 
+| *[Build Your Cyber Security Career](https://tryhackme.com/room/securityprinciples)* | Industry pathways, portfolio development, and role positioning. | [Open Room](https://tryhackme.com/room/careersincyber) |  
+| *[Build Your Cyber Security Career](https://tryhackme.com/room/securityprinciples)* | Industry pathways, portfolio development, and role positioning. | [Open Room](https://tryhackme.com/room/careersincyber) 
+| *[Build Your Cyber Security Career](https://tryhackme.com/room/securityprinciples)* | Industry pathways, portfolio development, and role positioning.  |  [Open Room](https://tryhackme.com/paths) 
 
 ---
 
@@ -119,8 +135,8 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
 | *[OWASP Top 10 (2025)](https://tryhackme.com/room/owasptopten2025one)* | Critical web application vulnerabilities and remediation guidelines. | [Open Room](https://tryhackme.com/room/owasptopten2025two) 
-| *[OWASP Top 10 (2025)](https://tryhackme.com/room/owasptopten2025one)* | Critical web application vulnerabilities and remediation guidelines.  [Open Room](https://tryhackme.com/room/owasptopten2025three) | 
-[Open Room](https://tryhackme.com/room/hh-room404-804573bf) 
+| *[OWASP Top 10 (2025)](https://tryhackme.com/room/owasptopten2025one)* | Critical web application vulnerabilities and remediation guidelines. | [Open Room](https://tryhackme.com/room/owasptopten2025three) 
+| *[OWASP Top 10 (2025)](https://tryhackme.com/room/owasptopten2025one)* | [Open Room](https://tryhackme.com/room/hh-room404-804573bf) 
 
 
 
@@ -131,4 +147,5 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[Windows and AD Fundamentals](https://tryhackme.com/room/windowsfundamentals3xzx)* | Windows internals, UAC, and Active Directory objects/domains. | [Open Room](https://tryhackme.com/room/winadbasics) | [Open Room](https://tryhackme.com/room/toolsrus) 
+| *[Windows and AD Fundamentals](https://tryhackme.com/room/windowsfundamentals3xzx)* | Windows internals, UAC, and Active Directory objects/domains. | [Open Room](https://tryhackme.com/room/winadbasics)
+| *[Windows and AD Fundamentals](https://tryhackme.com/room/windowsfundamentals3xzx)* | Windows internals, UAC, and Active Directory objects/domains.  | [Open Room](https://tryhackme.com/room/toolsrus) 
