@@ -118,7 +118,9 @@ This repository documents my comprehensive hands-on labs, exercises, and rooms c
 
 | Room / Module Name | Core Focus & Concepts Covered | Direct Link |
 | :--- | :--- | :--- |
-| *[OWASP Top 10 (2025)](https://tryhackme.com/room/owasptopten2025one)* | Critical web application vulnerabilities and remediation guidelines. | [Open Room](https://tryhackme.com/room/owasptopten2025two) | [Open Room](https://tryhackme.com/room/owasptopten2025three) | [Open Room](https://tryhackme.com/room/hh-room404-804573bf) 
+| *[OWASP Top 10 (2025)](https://tryhackme.com/room/owasptopten2025one)* | Critical web application vulnerabilities and remediation guidelines. | [Open Room](https://tryhackme.com/room/owasptopten2025two) 
+| *[OWASP Top 10 (2025)](https://tryhackme.com/room/owasptopten2025one)* | Critical web application vulnerabilities and remediation guidelines.  [Open Room](https://tryhackme.com/room/owasptopten2025three) | 
+[Open Room](https://tryhackme.com/room/hh-room404-804573bf) 
 
 
 
