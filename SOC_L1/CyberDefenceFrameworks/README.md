@@ -17,7 +17,7 @@ Understanding how adversaries operate and how defenders categorize threats is es
 | **2. Cyber Kill Chain** | Examining Lockheed Martin's framework for tracking adversary behavior through sequential phases: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command & Control, and Actions on Objectives. | [Open Room](https://tryhackme.com/room/cyberkillchainzmt) |
 | **3. Unified Kill Chain** | Exploring the extended 18-phase kill chain model that bridges traditional network attack cycles with modern, complex intrusion vectors across enterprise networks. | [Open Room](https://tryhackme.com/room/unifiedkillchain) |
 | **4. Mitre** | Practical mapping of observed adversary tactics and techniques to the MITRE ATT&CK enterprise matrix for threat intelligence and detection rule writing. | [Open Room](https://tryhackme.com/room/mitre) |
-| **5. Submit** | Practical exercise focusing on intelligence sharing, artifact submission workflows, and telemetry validation within security frameworks. | [Open Room](https://tryhackme.com/room/summit) |
+| **5. Summit** | Practical exercise focusing on intelligence sharing, artifact submission workflows, and telemetry validation within security frameworks. | [Open Room](https://tryhackme.com/room/summit) |
 | **6. Eviction** | Understanding the strategic and technical processes required to remove an established adversary from an enterprise network during incident response. | [Open Room](https://tryhackme.com/room/eviction) |
 | **7. Phishing Pond** | Scenario-based analysis linking social engineering attack vectors back to foundational threat intelligence and kill chain phases. | [Open Room](https://tryhackme.com/room/phishingpond) |
 
