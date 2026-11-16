@@ -18,7 +18,7 @@ This repository acts as a master index for specialized sub-projects. Each sub-pr
 | **[Phishing Analysis Lab](https://github.com/upasanatailor/CyberSecurityProjects/tree/main/SOC_L1/PhishingAnalysisLab)** | Dissecting malicious email headers, extracting IOCs, defanging URLs, and payload inspection. | CyberChef, YARA, Email Header Parsers | 🟢 Complete |
 | **[Incident Response Playbooks](./incident-response)** | Structured investigation of simulated security breaches, alert triage, and containment strategies. | NIST/SANS IR Lifecycle, Kill Chain | 🟡 In Progress |
 | **[TryHackMe SOC Level 1 Labs](https://github.com/upasanatailor/CyberSecurityProjects/tree/main/SOC_L1/PhishingAnalysisLab)** | Documentation of hands-on SOC labs covering log analysis, endpoint security, and SIEM monitoring. | Splunk, Wireshark, Nmap | 🟢 Active |
-| **[Cyber Defence Frameworks](./threat-intel)** | Mapping observed adversary behaviors and tactics to standard threat frameworks. | MITRE ATT&CK, Cyber Kill Chain | 🟢 Complete |
+| **[Cyber Defence Frameworks](https://github.com/upasanatailor/CyberSecurityProjects/tree/main/SOC_L1/CyberDefenceFrameworks)** | Mapping observed adversary behaviors and tactics to standard threat frameworks. | MITRE ATT&CK, Cyber Kill Chain | 🟢 Complete |
 
 ---
 
