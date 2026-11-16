@@ -15,7 +15,7 @@ This repository acts as a master index for specialized sub-projects. Each sub-pr
 
 | Project Name | Focus Area & Description | Key Tools & Frameworks | Status |
 | :--- | :--- | :--- | :--- |
-| **[Phishing Analysis Lab](./phishing-analysis)** | Dissecting malicious email headers, extracting IOCs, defanging URLs, and payload inspection. | CyberChef, YARA, Email Header Parsers | 🟢 Complete |
+| **[Phishing Analysis Lab](.[/phishing-analysis](https://github.com/upasanatailor/CyberSecurityProjects/tree/main/SOC_L1/PhishingAnalysisLab))** | Dissecting malicious email headers, extracting IOCs, defanging URLs, and payload inspection. | CyberChef, YARA, Email Header Parsers | 🟢 Complete |
 | **[Incident Response Playbooks](./incident-response)** | Structured investigation of simulated security breaches, alert triage, and containment strategies. | NIST/SANS IR Lifecycle, Kill Chain | 🟡 In Progress |
 | **[TryHackMe SOC Level 1 Labs](./tryhackme-soc-labs)** | Documentation of hands-on SOC labs covering log analysis, endpoint security, and SIEM monitoring. | Splunk, Wireshark, Nmap | 🟢 Active |
 | **[Threat Intelligence & Mapping](./threat-intel)** | Mapping observed adversary behaviors and tactics to standard threat frameworks. | MITRE ATT&CK, Cyber Kill Chain | 🟢 Complete |
