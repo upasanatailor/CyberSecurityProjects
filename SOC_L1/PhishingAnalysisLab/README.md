@@ -10,7 +10,7 @@
 | Lab / Packet Study Name | Core Focus & Concepts Covered | Direct Link / Notes |
 | :--- | :--- | :--- |
 | **SMTP Packet Analysis** | Analyzing mail server communication, tracking TCP handshakes on ports 25/587, and identifying plaintext authentication tokens. | [Wireshark Capture Study](./artifacts/smtp-pcap.png) |
-| **IMF Message Structure Study** | Inspecting the raw MIME headers and body payloads encapsulated within network data streams. | [Wireshark Capture Study](./artifacts/IMF-pcap.png) |
+| **IMF Message Structure Study** | Inspecting the raw MIME headers and body payloads encapsulated within network data streams. | [Wireshark Capture Study](./artifacts/IMF.png) |
 ---
 
 ## 📋 Module Overview
